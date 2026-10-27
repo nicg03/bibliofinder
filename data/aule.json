@@ -1,0 +1,1189 @@
+[
+  {
+    "slug": "la-pelanda",
+    "type": "aula",
+    "name": "La Pelanda",
+    "address": "Piazza Orazio Giustiniani 4",
+    "neighborhood": "Testaccio",
+    "municipio": "I",
+    "lat": 41.8759236,
+    "lng": 12.4740215,
+    "capacity": 28,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "09:30",
+          "close": "19:30"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:30",
+          "close": "19:30"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:30",
+          "close": "19:30"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:30",
+          "close": "19:30"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:30",
+          "close": "19:30"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:30",
+          "close": "19:30"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:30",
+          "close": "19:30"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/la-pelanda/",
+    "description": "Aula studio nel complesso del Mattatoio a Testaccio: spazio dedicato a studio, lettura e lavoro condiviso."
+  },
+  {
+    "slug": "macro",
+    "type": "aula",
+    "name": "Macro",
+    "address": "Via Nizza 138",
+    "neighborhood": "Nomentano",
+    "municipio": "II",
+    "lat": 41.9130516,
+    "lng": 12.5031409,
+    "capacity": 48,
+    "outdoorSeats": null,
+    "services": [
+      "Prese elettriche",
+      "Servizi igienici",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/macro/",
+    "description": "Aula studio nel Museo di Arte Contemporanea di Roma, dedicata alla pubblica lettura e allo studio."
+  },
+  {
+    "slug": "trionfale",
+    "type": "aula",
+    "name": "Trionfale",
+    "address": "Via Andrea Doria 41",
+    "neighborhood": "Prati",
+    "municipio": "I",
+    "lat": 41.90969,
+    "lng": 12.45211,
+    "capacity": 90,
+    "outdoorSeats": null,
+    "services": [
+      "Divani",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/trionfale/",
+    "description": "Nel Mercato Trionfale: 90 posti, in continuità con la Biblioteca Giordano Bruno."
+  },
+  {
+    "slug": "museo-di-roma",
+    "type": "aula",
+    "name": "Museo di Roma",
+    "address": "Piazza di San Pantaleo 10",
+    "neighborhood": "Parione",
+    "municipio": "I",
+    "lat": 41.8973751,
+    "lng": 12.4728322,
+    "capacity": 16,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/museo-di-roma/",
+    "description": "Spazio di studio gratuito a Palazzo Braschi, nel Museo di Roma."
+  },
+  {
+    "slug": "canonica",
+    "type": "aula",
+    "name": "Canonica",
+    "address": "Viale Pietro Canonica 2",
+    "neighborhood": "Pinciano",
+    "municipio": "II",
+    "lat": 41.9152998,
+    "lng": 12.4861999,
+    "capacity": 24,
+    "outdoorSeats": null,
+    "services": [
+      "Armadietti",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/canonica/",
+    "description": "Aula raccolta nel Museo Pietro Canonica, a Villa Borghese."
+  },
+  {
+    "slug": "casa-del-cinema",
+    "type": "aula",
+    "name": "Casa del Cinema",
+    "address": "Largo Marcello Mastroianni 1",
+    "neighborhood": "Pinciano",
+    "municipio": "II",
+    "lat": 41.9108301,
+    "lng": 12.4877386,
+    "capacity": 28,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile",
+      "Aria condizionata",
+      "Prese elettriche",
+      "Ricarica USB",
+      "Servizi igienici",
+      "Tavoli grandi",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/casa-del-cinema/",
+    "description": "Spazio di studio alla Casa del Cinema, a Villa Borghese."
+  },
+  {
+    "slug": "la-vaccheria",
+    "type": "aula",
+    "name": "La Vaccheria",
+    "address": "Via Giovanni l'Eltore 35",
+    "neighborhood": "EUR",
+    "municipio": "IX",
+    "lat": 41.8134139,
+    "lng": 12.4581351,
+    "capacity": 15,
+    "outdoorSeats": null,
+    "services": [
+      "Aria condizionata",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Tavoli grandi",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/la-vaccheria/",
+    "description": "Aula studio del Municipio IX, nello spazio espositivo La Vaccheria."
+  },
+  {
+    "slug": "palazzo-esposizioni",
+    "type": "aula",
+    "name": "Palazzo Esposizioni",
+    "address": "Via Milano 13",
+    "neighborhood": "Monti",
+    "municipio": "I",
+    "lat": 41.8992092,
+    "lng": 12.4900735,
+    "capacity": 24,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile",
+      "Aria condizionata",
+      "Armadietti",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/palazzo-esposizioni/",
+    "description": "Aula raccolta nel Palazzo delle Esposizioni, in centro."
+  },
+  {
+    "slug": "casina-del-salvi",
+    "type": "aula",
+    "name": "Casina del Salvi",
+    "address": "Viale di Parco del Celio 20",
+    "neighborhood": "Celio",
+    "municipio": "I",
+    "lat": 41.8873812,
+    "lng": 12.4917914,
+    "capacity": 38,
+    "outdoorSeats": 24,
+    "services": [
+      "Divani",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/celio/",
+    "description": "Aula studio nella Casina del Salvi, nel Parco del Celio, con posti anche all'esterno."
+  },
+  {
+    "slug": "torpignattara",
+    "type": "aula",
+    "name": "Torpignattara",
+    "address": "Via di Acqua Bullicante 2",
+    "neighborhood": "Torpignattara",
+    "municipio": "V",
+    "lat": 41.8806663,
+    "lng": 12.5427488,
+    "capacity": 36,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/torpignattara/",
+    "description": "Spazio civico in via di Acqua Bullicante, nel cuore di Torpignattara."
+  },
+  {
+    "slug": "sempione",
+    "type": "aula",
+    "name": "Sempione",
+    "address": "Piazza Sempione 15",
+    "neighborhood": "Monte Sacro",
+    "municipio": "III",
+    "lat": 41.9361636,
+    "lng": 12.5351297,
+    "capacity": 20,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/sempione/",
+    "description": "Sala lettura pubblica del Municipio III, a Monte Sacro."
+  },
+  {
+    "slug": "montespaccato",
+    "type": "aula",
+    "name": "Montespaccato",
+    "address": "Via Gaetano Mazzoni 85",
+    "neighborhood": "Aurelio",
+    "municipio": "XIII",
+    "lat": 41.906713,
+    "lng": 12.3935655,
+    "capacity": 22,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/polo-culturale-di-montespaccato/",
+    "description": "Nel Polo Culturale di Montespaccato, negli spazi dell'ex fabbrica Campari."
+  },
+  {
+    "slug": "vigna-clara",
+    "type": "aula",
+    "name": "Vigna Clara",
+    "address": "Via Flaminia Nuova 204",
+    "neighborhood": "Flaminio",
+    "municipio": "XV",
+    "lat": 41.9492256,
+    "lng": 12.4712492,
+    "capacity": 21,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile",
+      "Aria condizionata",
+      "Divani",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Tavoli grandi",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/vigna-clara/",
+    "description": "Spazio pubblico gestito da Biblioteche di Roma nel XV Municipio."
+  },
+  {
+    "slug": "auditorium",
+    "type": "aula",
+    "name": "Auditorium",
+    "address": "Viale Pietro de Coubertin 30",
+    "neighborhood": "Parioli",
+    "municipio": "II",
+    "lat": 41.9294682,
+    "lng": 12.4763603,
+    "capacity": 32,
+    "outdoorSeats": null,
+    "services": [
+      "Aria condizionata",
+      "Prese elettriche",
+      "Tavoli grandi",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/auditorium/",
+    "description": "Aula Studio Mattia Nicholas Liguori all'Auditorium Parco della Musica Ennio Morricone."
+  },
+  {
+    "slug": "urban-center",
+    "type": "aula",
+    "name": "Urban Center",
+    "address": "Viale Manzoni 34",
+    "neighborhood": "Esquilino",
+    "municipio": "I",
+    "lat": 41.8908885,
+    "lng": 12.5071767,
+    "capacity": 20,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/urban-center/",
+    "description": "Aula civica all'Urban Center, sull'Esquilino."
+  },
+  {
+    "slug": "cittadini-del-mondo",
+    "type": "aula",
+    "name": "Cittadini del Mondo",
+    "address": "Viale Opita Oppio 41",
+    "neighborhood": "Tuscolano",
+    "municipio": "VII",
+    "lat": 41.8617001,
+    "lng": 12.5488694,
+    "capacity": 16,
+    "outdoorSeats": 12,
+    "services": [
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/cittadini-del-mondo/",
+    "description": "Aula federata al Tuscolano, con posti anche all'esterno."
+  },
+  {
+    "slug": "casa-del-popolo",
+    "type": "aula",
+    "name": "Casa del Popolo",
+    "address": "Via di Valle Aurelia 37",
+    "neighborhood": "Valle Aurelia",
+    "municipio": "XIII",
+    "lat": 41.9087673,
+    "lng": 12.4359238,
+    "capacity": 36,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "09:00",
+          "close": "19:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/casa-del-popolo/",
+    "description": "Aula civica a Valle Aurelia, 36 posti."
+  },
+  {
+    "slug": "casale-dei-cedrati",
+    "type": "aula",
+    "name": "Casale dei Cedrati",
+    "address": "Via Aurelia Antica 219",
+    "neighborhood": "Gianicolense",
+    "municipio": "XII",
+    "lat": 41.8890596,
+    "lng": 12.4431565,
+    "capacity": 30,
+    "outdoorSeats": 10,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ],
+      "sun": [
+        {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/casale-dei-cedrati/",
+    "description": "Aula federata al Gianicolense, con posti interni ed esterni."
+  },
+  {
+    "slug": "farandola-fumetto",
+    "type": "aula",
+    "name": "Farandola Fumetto",
+    "address": "Via Pietro Romualdo Pirotta 95",
+    "neighborhood": "Prenestino-Centocelle",
+    "municipio": "V",
+    "lat": 41.8929066,
+    "lng": 12.5711728,
+    "capacity": 20,
+    "outdoorSeats": null,
+    "services": [
+      "Aria condizionata",
+      "Distributori",
+      "Prese elettriche",
+      "Ricarica USB",
+      "Servizi igienici",
+      "Tavoli grandi",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [
+        {
+          "open": "15:00",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "15:00",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "15:00",
+          "close": "19:00"
+        }
+      ],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/farandola-fumetto/",
+    "description": "Aula federata a Centocelle, aperta nel pomeriggio."
+  },
+  {
+    "slug": "lav",
+    "type": "aula",
+    "name": "LAV",
+    "address": "Viale Regina Margherita 177",
+    "neighborhood": "Trieste",
+    "municipio": "II",
+    "lat": 41.9145192,
+    "lng": 12.5050274,
+    "capacity": 8,
+    "outdoorSeats": null,
+    "services": [
+      "Accessibile",
+      "Aria condizionata",
+      "Prese elettriche",
+      "Servizi igienici",
+      "Tavoli grandi",
+      "Wi-Fi"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "sourceUrl": "https://aulestudio.roma.it/aula/lav/",
+    "description": "Piccola aula federata a Trieste, 8 posti."
+  }
+]

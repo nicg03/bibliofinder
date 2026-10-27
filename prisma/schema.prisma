@@ -1,0 +1,53 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum PlaceType {
+  aula
+  biblioteca
+}
+
+enum OccupancyLevel {
+  green
+  yellow
+  red
+}
+
+model Place {
+  id            String             @id @default(cuid())
+  slug          String             @unique
+  type          PlaceType
+  name          String
+  address       String
+  neighborhood  String
+  municipio     String?
+  lat           Float
+  lng           Float
+  capacity      Int?
+  outdoorSeats  Int?
+  services      String[]
+  hours         Json
+  sourceUrl     String?
+  description   String?
+  baselineCurve Json?
+  createdAt     DateTime           @default(now())
+  updatedAt     DateTime           @updatedAt
+  reports       OccupancyReport[]
+}
+
+model OccupancyReport {
+  id        String          @id @default(cuid())
+  placeId   String
+  place     Place           @relation(fields: [placeId], references: [id], onDelete: Cascade)
+  level     OccupancyLevel
+  ipHash    String
+  createdAt DateTime        @default(now())
+
+  @@index([placeId, createdAt])
+  @@index([placeId, ipHash, createdAt])
+}

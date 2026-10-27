@@ -1,0 +1,2402 @@
+[
+  {
+    "slug": "casa-delle-letterature",
+    "type": "biblioteca",
+    "name": "Casa delle Letterature",
+    "address": "Piazza dell'Orologio 3",
+    "neighborhood": "Parione",
+    "municipio": "I",
+    "lat": 41.8983,
+    "lng": 12.4668,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-casa-delle-letterature/RMBA7",
+    "description": "Biblioteca civica di Roma Capitale a Parione."
+  },
+  {
+    "slug": "casa-della-memoria",
+    "type": "biblioteca",
+    "name": "Casa della Memoria e della Storia",
+    "address": "Via San Francesco di Sales 5",
+    "neighborhood": "Trastevere",
+    "municipio": "I",
+    "lat": 41.8927,
+    "lng": 12.4615,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Casa%20della%20Memoria%20e%20della%20Storia/RMBA5",
+    "description": "Biblioteca civica di Roma Capitale a Trastevere."
+  },
+  {
+    "slug": "casa-delle-traduzioni",
+    "type": "biblioteca",
+    "name": "Casa delle Traduzioni",
+    "address": "Via degli Avignonesi 32",
+    "neighborhood": "Trevi",
+    "municipio": "I",
+    "lat": 41.9036,
+    "lng": 12.4896,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Casa%20delle%20Traduzioni/RMBA6",
+    "description": "Biblioteca civica di Roma Capitale a Trevi."
+  },
+  {
+    "slug": "centrale-ragazzi",
+    "type": "biblioteca",
+    "name": "Centrale Ragazzi",
+    "address": "Via San Paolo alla Regola 15",
+    "neighborhood": "Regola",
+    "municipio": "I",
+    "lat": 41.8926,
+    "lng": 12.4736,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-centrale-ragazzi-centro-specializzato/RMBBR",
+    "description": "Biblioteca civica di Roma Capitale a Regola."
+  },
+  {
+    "slug": "enzo-tortora",
+    "type": "biblioteca",
+    "name": "Enzo Tortora",
+    "address": "Via Nicola Zabaglia 27",
+    "neighborhood": "Testaccio",
+    "municipio": "I",
+    "lat": 41.8786,
+    "lng": 12.4752,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Enzo%20Tortora/RMBA3",
+    "description": "Biblioteca civica di Roma Capitale a Testaccio."
+  },
+  {
+    "slug": "giordano-bruno",
+    "type": "biblioteca",
+    "name": "Giordano Bruno",
+    "address": "Via Giordano Bruno 47",
+    "neighborhood": "Prati",
+    "municipio": "I",
+    "lat": 41.9118,
+    "lng": 12.4546,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-giordano-bruno/RMBS1",
+    "description": "Biblioteca civica di Roma Capitale a Prati."
+  },
+  {
+    "slug": "europea",
+    "type": "biblioteca",
+    "name": "Europea",
+    "address": "Via Savoia 13",
+    "neighborhood": "Salario",
+    "municipio": "II",
+    "lat": 41.9137,
+    "lng": 12.5014,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Europea/RMBA1",
+    "description": "Biblioteca civica di Roma Capitale a Salario."
+  },
+  {
+    "slug": "flaminia",
+    "type": "biblioteca",
+    "name": "Flaminia",
+    "address": "Via Fracassini 9",
+    "neighborhood": "Flaminio",
+    "municipio": "II",
+    "lat": 41.9186,
+    "lng": 12.4728,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-flaminia/RMBB3",
+    "description": "Biblioteca civica di Roma Capitale a Flaminio."
+  },
+  {
+    "slug": "villa-leopardi",
+    "type": "biblioteca",
+    "name": "Villa Leopardi",
+    "address": "Via Makallè 4",
+    "neighborhood": "Trieste",
+    "municipio": "II",
+    "lat": 41.9286,
+    "lng": 12.5158,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Villa%20Leopardi/RMBB1",
+    "description": "Biblioteca civica di Roma Capitale a Trieste."
+  },
+  {
+    "slug": "tullio-de-mauro",
+    "type": "biblioteca",
+    "name": "Tullio De Mauro",
+    "address": "Via Tiburtina 113",
+    "neighborhood": "San Lorenzo",
+    "municipio": "II",
+    "lat": 41.8975,
+    "lng": 12.5148,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Tullio%20De%20Mauro/RMBC1",
+    "description": "Biblioteca civica di Roma Capitale a San Lorenzo."
+  },
+  {
+    "slug": "ennio-flaiano",
+    "type": "biblioteca",
+    "name": "Ennio Flaiano",
+    "address": "Via Monte Ruggero 39",
+    "neighborhood": "Monte Sacro",
+    "municipio": "III",
+    "lat": 41.9355,
+    "lng": 12.5368,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-ennio-flaiano/RMBD1",
+    "description": "Biblioteca civica di Roma Capitale a Monte Sacro."
+  },
+  {
+    "slug": "aldo-fabrizi",
+    "type": "biblioteca",
+    "name": "Aldo Fabrizi",
+    "address": "Via Treia 14",
+    "neighborhood": "Montesacro Alto",
+    "municipio": "IV",
+    "lat": 41.9458,
+    "lng": 12.5486,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Aldo%20Fabrizi/RMBE2",
+    "description": "Biblioteca civica di Roma Capitale a Montesacro Alto."
+  },
+  {
+    "slug": "fabrizio-giovenale",
+    "type": "biblioteca",
+    "name": "Fabrizio Giovenale",
+    "address": "Via Fermo Corni, Parco di Aguzzano",
+    "neighborhood": "Aguzzano",
+    "municipio": "IV",
+    "lat": 41.9415,
+    "lng": 12.5685,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Fabrizio%20Giovenale/RMBWA",
+    "description": "Biblioteca civica di Roma Capitale a Aguzzano."
+  },
+  {
+    "slug": "vaccheria-nardi",
+    "type": "biblioteca",
+    "name": "Vaccheria Nardi",
+    "address": "Via Grotte di Gregna 27",
+    "neighborhood": "Centocelle",
+    "municipio": "V",
+    "lat": 41.8824,
+    "lng": 12.5682,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-vaccheria-nardi/RMBE1",
+    "description": "Biblioteca civica di Roma Capitale a Centocelle."
+  },
+  {
+    "slug": "gianni-rodari",
+    "type": "biblioteca",
+    "name": "Gianni Rodari",
+    "address": "Via Francesco Tovaglieri 237",
+    "neighborhood": "Tor Cervara",
+    "municipio": "V",
+    "lat": 41.9154,
+    "lng": 12.5856,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-gianni-rodari/RMBG1",
+    "description": "Biblioteca civica di Roma Capitale a Tor Cervara."
+  },
+  {
+    "slug": "goffredo-mameli",
+    "type": "biblioteca",
+    "name": "Goffredo Mameli",
+    "address": "Via del Pigneto 22",
+    "neighborhood": "Pigneto",
+    "municipio": "V",
+    "lat": 41.8886,
+    "lng": 12.5284,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-goffredo-mameli/RMBF1",
+    "description": "Biblioteca civica di Roma Capitale a Pigneto."
+  },
+  {
+    "slug": "penazzato",
+    "type": "biblioteca",
+    "name": "Penazzato",
+    "address": "Via Dino Penazzato 112",
+    "neighborhood": "Prenestino",
+    "municipio": "V",
+    "lat": 41.8912,
+    "lng": 12.5486,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-penazzato/RMBF2",
+    "description": "Biblioteca civica di Roma Capitale a Prenestino."
+  },
+  {
+    "slug": "quarticciolo",
+    "type": "biblioteca",
+    "name": "Teatro Biblioteca Quarticciolo",
+    "address": "Via Castellaneta 10",
+    "neighborhood": "Quarticciolo",
+    "municipio": "V",
+    "lat": 41.8918,
+    "lng": 12.5784,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/teatro-biblioteca-quarticciolo/RMBG2",
+    "description": "Biblioteca civica di Roma Capitale a Quarticciolo."
+  },
+  {
+    "slug": "borghesiana",
+    "type": "biblioteca",
+    "name": "Borghesiana",
+    "address": "Largo Monreale",
+    "neighborhood": "Borghesiana",
+    "municipio": "VI",
+    "lat": 41.8645,
+    "lng": 12.6685,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-borghesiana/RMBH2",
+    "description": "Biblioteca civica di Roma Capitale a Borghesiana."
+  },
+  {
+    "slug": "collina-della-pace",
+    "type": "biblioteca",
+    "name": "Collina della Pace",
+    "address": "Via Bompietro 16",
+    "neighborhood": "Torre Angela",
+    "municipio": "VI",
+    "lat": 41.8675,
+    "lng": 12.6325,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Collina%20della%20Pace/RMBH3",
+    "description": "Biblioteca civica di Roma Capitale a Torre Angela."
+  },
+  {
+    "slug": "casa-dei-bimbi",
+    "type": "biblioteca",
+    "name": "Casa dei Bimbi",
+    "address": "Via Libero Leonardi 153",
+    "neighborhood": "Don Bosco",
+    "municipio": "VII",
+    "lat": 41.8595,
+    "lng": 12.5685,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-casa-dei-bimbi/RMBL3",
+    "description": "Biblioteca civica di Roma Capitale a Don Bosco."
+  },
+  {
+    "slug": "nelson-mandela",
+    "type": "biblioteca",
+    "name": "Nelson Mandela",
+    "address": "Via La Spezia 21",
+    "neighborhood": "San Giovanni",
+    "municipio": "VII",
+    "lat": 41.8816,
+    "lng": 12.5158,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-nelson-mandela/RMBI1",
+    "description": "Biblioteca civica di Roma Capitale a San Giovanni."
+  },
+  {
+    "slug": "raffaello",
+    "type": "biblioteca",
+    "name": "Raffaello",
+    "address": "Via Tuscolana 1111",
+    "neighborhood": "Don Bosco",
+    "municipio": "VII",
+    "lat": 41.8538,
+    "lng": 12.5692,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-raffaello/RMBL1",
+    "description": "Biblioteca civica di Roma Capitale a Don Bosco."
+  },
+  {
+    "slug": "rugantino",
+    "type": "biblioteca",
+    "name": "Rugantino",
+    "address": "Via Rugantino 113",
+    "neighborhood": "Cinecittà",
+    "municipio": "VII",
+    "lat": 41.8486,
+    "lng": 12.5684,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-rugantino/RMBH1",
+    "description": "Biblioteca civica di Roma Capitale a Cinecittà."
+  },
+  {
+    "slug": "arcipelago-auditorium",
+    "type": "biblioteca",
+    "name": "Arcipelago Auditorium",
+    "address": "Via Benedetto Croce 50",
+    "neighborhood": "Garbatella",
+    "municipio": "VIII",
+    "lat": 41.8624,
+    "lng": 12.4915,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/bibliocaffe-letterario/RMBM1",
+    "description": "Biblioteca civica di Roma Capitale a Garbatella."
+  },
+  {
+    "slug": "joyce-lussu",
+    "type": "biblioteca",
+    "name": "Joyce Lussu",
+    "address": "Via Costantino 49",
+    "neighborhood": "San Paolo",
+    "municipio": "VIII",
+    "lat": 41.8562,
+    "lng": 12.4785,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Joyce%20Lussu/RMBM2",
+    "description": "Biblioteca civica di Roma Capitale a San Paolo."
+  },
+  {
+    "slug": "pier-paolo-pasolini",
+    "type": "biblioteca",
+    "name": "Pier Paolo Pasolini",
+    "address": "Viale dei Caduti per la Resistenza 410",
+    "neighborhood": "Cecchignola",
+    "municipio": "IX",
+    "lat": 41.8186,
+    "lng": 12.4935,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-pier-paolo-pasolini/RMBN1",
+    "description": "Biblioteca civica di Roma Capitale a Cecchignola."
+  },
+  {
+    "slug": "laurentina",
+    "type": "biblioteca",
+    "name": "Laurentina",
+    "address": "Piazzale Elsa Morante",
+    "neighborhood": "EUR",
+    "municipio": "IX",
+    "lat": 41.8285,
+    "lng": 12.4708,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Laurentina/RMBN2",
+    "description": "Biblioteca civica di Roma Capitale a EUR."
+  },
+  {
+    "slug": "elsa-morante",
+    "type": "biblioteca",
+    "name": "Elsa Morante",
+    "address": "Lungomare Duca degli Abruzzi 84",
+    "neighborhood": "Ostia",
+    "municipio": "X",
+    "lat": 41.7326,
+    "lng": 12.2785,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-elsa-morante/RMBO2",
+    "description": "Biblioteca civica di Roma Capitale a Ostia."
+  },
+  {
+    "slug": "sandro-onofri",
+    "type": "biblioteca",
+    "name": "Sandro Onofri",
+    "address": "Via Lilloni 39",
+    "neighborhood": "Acilia",
+    "municipio": "X",
+    "lat": 41.7805,
+    "lng": 12.3458,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-sandro-onofri/RMBO1",
+    "description": "Biblioteca civica di Roma Capitale a Acilia."
+  },
+  {
+    "slug": "guglielmo-marconi",
+    "type": "biblioteca",
+    "name": "Guglielmo Marconi",
+    "address": "Via Gerolamo Cardano 135",
+    "neighborhood": "Marconi",
+    "municipio": "XI",
+    "lat": 41.8628,
+    "lng": 12.4695,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-guglielmo-marconi/RMBQ1",
+    "description": "Biblioteca civica di Roma Capitale a Marconi."
+  },
+  {
+    "slug": "renato-nicolini",
+    "type": "biblioteca",
+    "name": "Renato Nicolini",
+    "address": "Via Marino Mazzacurati 76",
+    "neighborhood": "Magliana",
+    "municipio": "XI",
+    "lat": 41.8395,
+    "lng": 12.4586,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-renato-nicolini/RMBQ2",
+    "description": "Biblioteca civica di Roma Capitale a Magliana."
+  },
+  {
+    "slug": "colli-portuensi",
+    "type": "biblioteca",
+    "name": "Colli Portuensi",
+    "address": "Via dei Colli Portuensi 275",
+    "neighborhood": "Portuense",
+    "municipio": "XII",
+    "lat": 41.8685,
+    "lng": 12.4426,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-colli-portuensi/RMBR1",
+    "description": "Biblioteca civica di Roma Capitale a Portuense."
+  },
+  {
+    "slug": "longhena",
+    "type": "biblioteca",
+    "name": "Longhena",
+    "address": "Via Baldassarre Longhena 98",
+    "neighborhood": "Monteverde",
+    "municipio": "XII",
+    "lat": 41.8736,
+    "lng": 12.4458,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-longhena/RMBR2",
+    "description": "Biblioteca civica di Roma Capitale a Monteverde."
+  },
+  {
+    "slug": "villino-corsini",
+    "type": "biblioteca",
+    "name": "Villino Corsini - Villa Pamphilj",
+    "address": "Largo 3 giugno 1849",
+    "neighborhood": "Gianicolense",
+    "municipio": "XII",
+    "lat": 41.8882,
+    "lng": 12.4526,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-villino-corsini-villa-pamphilj/RMBR3",
+    "description": "Biblioteca civica di Roma Capitale a Gianicolense."
+  },
+  {
+    "slug": "cornelia",
+    "type": "biblioteca",
+    "name": "Cornelia",
+    "address": "Via Cornelia 45",
+    "neighborhood": "Aurelio",
+    "municipio": "XIII",
+    "lat": 41.9058,
+    "lng": 12.4268,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-cornelia/RMBT2",
+    "description": "Biblioteca civica di Roma Capitale a Aurelio."
+  },
+  {
+    "slug": "valle-aurelia",
+    "type": "biblioteca",
+    "name": "Valle Aurelia",
+    "address": "Viale di Valle Aurelia 129",
+    "neighborhood": "Valle Aurelia",
+    "municipio": "XIII",
+    "lat": 41.9056,
+    "lng": 12.4372,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-valle-aurelia/RMBT1",
+    "description": "Biblioteca civica di Roma Capitale a Valle Aurelia."
+  },
+  {
+    "slug": "casa-del-parco",
+    "type": "biblioteca",
+    "name": "Casa del Parco",
+    "address": "Via della Pineta Sacchetti 78",
+    "neighborhood": "Trionfale",
+    "municipio": "XIV",
+    "lat": 41.9186,
+    "lng": 12.4295,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/Biblioteca%20Casa%20del%20Parco/RMBU2",
+    "description": "Biblioteca civica di Roma Capitale a Trionfale."
+  },
+  {
+    "slug": "franco-basaglia",
+    "type": "biblioteca",
+    "name": "Franco Basaglia",
+    "address": "Via Federico Borromeo 67",
+    "neighborhood": "Ottavia",
+    "municipio": "XIV",
+    "lat": 41.9586,
+    "lng": 12.4158,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-franco-basaglia/RMBU1",
+    "description": "Biblioteca civica di Roma Capitale a Ottavia."
+  },
+  {
+    "slug": "galline-bianche",
+    "type": "biblioteca",
+    "name": "Galline Bianche",
+    "address": "Via delle Galline Bianche 105",
+    "neighborhood": "Labaro",
+    "municipio": "XV",
+    "lat": 41.9925,
+    "lng": 12.4856,
+    "capacity": null,
+    "outdoorSeats": null,
+    "services": [
+      "Wi-Fi",
+      "Prese elettriche",
+      "Prestito",
+      "Sala lettura",
+      "Servizi igienici"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "tue": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "wed": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "thu": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "fri": [
+        {
+          "open": "08:30",
+          "close": "19:00"
+        }
+      ],
+      "sat": [
+        {
+          "open": "08:30",
+          "close": "13:30"
+        }
+      ],
+      "sun": []
+    },
+    "sourceUrl": "https://www.bibliotechediroma.it/opac/library/biblioteca-galline-bianche/RMBV1",
+    "description": "Biblioteca civica di Roma Capitale a Labaro."
+  }
+]
