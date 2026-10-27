@@ -23,13 +23,20 @@ npm run dev
 
 Apri [http://localhost:3000](http://localhost:3000).
 
-## Railway
+## GitHub + Railway
 
-1. Crea un progetto da questo repository GitHub.
-2. Aggiungi un servizio PostgreSQL.
-3. Nel servizio web, referenzia `DATABASE_URL` dal database.
-4. Imposta `REPORT_SALT` (stringa casuale).
-5. Generate Domain.
+Da questa cartella, dopo `gh auth login` e `railway login`:
+
+```bash
+gh repo create bibliofinder --public --source=. --remote=origin --push
+railway init
+railway add --database postgres
+railway variable set REPORT_SALT="$(openssl rand -hex 16)"
+railway up
+railway domain
+```
+
+In alternativa, su [railway.com/new](https://railway.com/new): **Deploy from GitHub repo** → questo repository → aggiungi PostgreSQL → referenzia `DATABASE_URL` nel servizio web → **Generate Domain**.
 
 Le migrate e il seed partono all’avvio del container.
 
